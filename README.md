@@ -64,3 +64,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # This is my fist app with Laravel 😎🔥🔥
 # first-app-laravel
 # first-app-laravel
+# This is my first project with laravel
